@@ -5,6 +5,11 @@ Google Agent Registry
 1. https://docs.cloud.google.com/agent-registry/overview
 
 
+
+<img width="1280" height="930" alt="image" src="https://github.com/user-attachments/assets/be19c426-b13e-40e7-85aa-27d942e285f5" />
+
+
+
 🔹 Part 5: Agent Registry: https://www.linkedin.com/posts/edong186_building-ai-agents-is-getting-messy-developers-activity-7457187774518075392-srD7
 
 🔹 Part 4: Agent identity: https://www.linkedin.com/posts/edong186_if-your-ai-agents-are-sharing-access-keys-share-7455734875904724992-Ebhk
