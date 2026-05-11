@@ -5,6 +5,10 @@ Google Agent Registry
 1. https://docs.cloud.google.com/agent-registry/overview
 
 
+<img width="800" height="498" alt="image" src="https://github.com/user-attachments/assets/a7e268a0-e305-46d1-97d2-335584c1e787" />
+
+
+
 
 <img width="1280" height="930" alt="image" src="https://github.com/user-attachments/assets/be19c426-b13e-40e7-85aa-27d942e285f5" />
 
