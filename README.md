@@ -1,2 +1,8 @@
 # google_agent_registry
 Google Agent Registry
+
+🔹 Part 5: Agent Registry: https://www.linkedin.com/posts/edong186_building-ai-agents-is-getting-messy-developers-activity-7457187774518075392-srD7
+🔹 Part 4: Agent identity: https://www.linkedin.com/posts/edong186_if-your-ai-agents-are-sharing-access-keys-share-7455734875904724992-Ebhk
+🔹 Part 3: Agent governance overview: https://www.linkedin.com/posts/edong186_this-is-the-hard-truth-you-cant-just-build-share-7454905639186874368-VjFd
+🔹 Part 2: Onboarding guide: https://www.linkedin.com/posts/edong186_the-architectural-shift-from-model-first-share-7452769212936384512-BjsQ
+🔹 Part 1: Introducing agent platform: https://www.linkedin.com/posts/edong186_the-architectural-shift-from-model-first-share-7452746454357557248-v-Ek 
